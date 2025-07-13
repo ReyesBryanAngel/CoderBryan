@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Angel Bryan Reyes
 
-I'm a **Full Stack Developer** from the Philippines 🇵🇭 with four years of experience building web applications in fintech, logistics, and enterprise platforms. Passionate about clean code, great UX, and scalable backend systems.
+I'm a **Full Stack Developer** from the Philippines 🇵🇭 with four years of experience building web applications in fintech and enterprise platforms. Passionate about clean code, great UX, and scalable frontend/backend systems.
 
 ---
 
