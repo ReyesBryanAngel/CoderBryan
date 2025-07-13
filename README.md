@@ -35,6 +35,6 @@ A personal finance tracker to monitor expenses, set budget limits, and get bill 
 
 ## 📫 Let’s Connect
 
-- 🧑‍💼 [LinkedIn]([https://www.linkedin.com/in/angelbryanreyes/](https://www.linkedin.com/in/angel-bryan-reyes-043571244/))
-- 📝 [My Portfolio]([https://your-portfolio.com](https://coderbryan-portfolio.netlify.app/))
+- 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/angel-bryan-reyes-043571244/))
+- 📝 [My Portfolio](https://coderbryan-portfolio.netlify.app/))
 - ✉️ Email: reyesangelbryan@gmail.com
