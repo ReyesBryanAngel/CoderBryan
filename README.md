@@ -27,8 +27,8 @@ I'm a **Full Stack Developer** from the Philippines 🇵🇭 with four years of 
 
 ## 📌 Personal Project
 
-### 🚀 BE[FinTrack](github.com/ReyesBryanAngel/expense-tracker-api)
-### 🚀 FE[FinTrack](github.com/ReyesBryanAngel/expense-tracker-app)
+### 🚀 [FinTrack Frontend Code](github.com/ReyesBryanAngel/expense-tracker-api)
+### 🚀 [FinTrack Backend Code](github.com/ReyesBryanAngel/expense-tracker-app)
 A personal finance tracker to monitor expenses, set budget limits, and get bill reminders.
 > React + Express + MongoDB + Material UI + Tailwind CSS + Cron Jobs
 ---
