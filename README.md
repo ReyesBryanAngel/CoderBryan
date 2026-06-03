@@ -7,15 +7,15 @@ I'm a **Full Stack Developer** from the Philippines 🇵🇭 with four years of 
 ## 🛠️ Tech Stack
 
 **Frontend:**  
-![Next.js]
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat-square)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square)
 ![Material UI](https://img.shields.io/badge/-MaterialUI-007FFF?logo=mui&logoColor=white&style=flat-square)
 
 **Backend:**  
-![Fastify]
-![Go]
+![Fastify](https://img.shields.io/badge/-Fastify-000000?logo=fastify&logoColor=white&style=flat-square)
+![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat-square)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
 ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat-square)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat-square)
